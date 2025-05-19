@@ -29,7 +29,7 @@ This DAG contains three tasks:
 
 All tasks completed successfully after correct file structure and path were ensured.
 
-![Airflow DAG](./screenshots/airflow_dag.png)
+![Airflow DAG](./screenshots/Airflow_DAG.png)
 
 ---
 
